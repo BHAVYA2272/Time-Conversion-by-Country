@@ -1,4 +1,5 @@
-Description:
+Time Conversion Java App
+
 A lightweight Java application for quick and accurate time zone conversions. Simplify international scheduling, travel, and communication effortlessly.
 
 Features:
